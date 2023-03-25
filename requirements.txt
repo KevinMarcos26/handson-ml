@@ -1,4 +1,4 @@
-# Edicion archivo Kevin Agüi Manera 25 de Marzo de 2023
+# Nueva Edicion archivo Kevin Agüi Manera 25 de Marzo de 2023
 
 # TensorFlow is much easier to install using Anaconda, especially
 # on Windows or when using a GPU. Please see the installation
